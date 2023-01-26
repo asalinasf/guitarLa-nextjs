@@ -1,0 +1,12 @@
+.error,.errorEnlace {
+    font-size: 2.4rem;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.errorEnlace{
+    font-size: 1.8rem;
+    display: block;
+    text-decoration: none;
+    color: var(--primary );
+}
